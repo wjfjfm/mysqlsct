@@ -1,5 +1,7 @@
 # mysqlsct
 
+test test
+
  mysqlsct is a benchmark tool to test strict consistency read, supports MySQL MGR,PolarDB,Aurora,TiDB,etc
 
  Another, mysqlsct support to test short connection mode and remain qps mode with custom query.
