@@ -1,6 +1,6 @@
 # mysqlsct
 
-test test
+test test test test
 
  mysqlsct is a benchmark tool to test strict consistency read, supports MySQL MGR,PolarDB,Aurora,TiDB,etc
 
